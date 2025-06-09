@@ -3,3 +3,13 @@
 ||g006-vod-gb-cmaf-prd-ak.pcdn05.cssott02.com^$important
 ||3fba0666412f41cfa84eda1dacc457c9.mediatailor.eu-west-3.amazonaws.com^$important
 ||mt.dai-nowtv.nbcuni.com^$important
+# 4OD
+||2356e.v.fwmrm.net^$important
+||ads-pres.channel4.com^$important
+||cdn.http.anno.channel4.com^$important
+||cdn.ss.anno.channel4.com^$important
+||p.videologygroup.com^$important
+||securecdn.videologygroup.com^$important
+||toots-a.akamaihd.net^$important
+||trk-euwest.tidaltv.com^$important
+||2a7e9.v.fwmrm.net^$important
